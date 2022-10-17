@@ -3,10 +3,11 @@
 @inject NavigationManager NavigationManager
 @using BlazorBattles.Client.Services
 @using Microsoft.AspNetCore.Components.Forms
-@using UserRegister
-
+@inject IJSRuntime JSRuntime;
+@inject NavigationManager NavigationManager
 
 <h3>Register</h3>
+
 
 <EditForm Model="user" OnValidSubmit="HandleRegistration">
     <DataAnnotationsValidator></DataAnnotationsValidator>
@@ -65,7 +66,8 @@
 
     void HandleRegistration()
     {
-        Console.WriteLine("store this new user in the database!");
+        JSRuntime.InvokeVoidAsync("console.log", user);
+        NavigationManager.NavigateTo("login");
     }
 
 }

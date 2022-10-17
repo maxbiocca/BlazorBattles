@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/BioccaMax/source/repos/BlazorBattles/BlazorBattles/Server/Pages/Register.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/BioccaMax/source/repos/BlazorBattles/BlazorBattles/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
