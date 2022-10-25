@@ -46,3 +46,5 @@ C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\net
 C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.pdb
 C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.genruntimeconfig.cache
 C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\ref\BlazorBattles.Server.dll
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll

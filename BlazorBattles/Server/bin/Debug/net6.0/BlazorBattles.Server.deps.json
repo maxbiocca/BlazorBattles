@@ -10,10 +10,22 @@
         "dependencies": {
           "BlazorBattles.Client": "1.0.0",
           "BlazorBattles.Shared": "1.0.0",
+          "Blazored.LocalStorage": "4.3.0-preview.1",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "6.0.10"
         },
         "runtime": {
           "BlazorBattles.Server.dll": {}
+        }
+      },
+      "Blazored.LocalStorage/4.3.0-preview.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.10"
+        },
+        "runtime": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Microsoft.AspNetCore.Authorization/6.0.10": {
@@ -42,6 +54,18 @@
         }
       },
       "Microsoft.AspNetCore.Components.Analyzers/6.0.10": {},
+      "Microsoft.AspNetCore.Components.Authorization/6.0.10": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.10",
+          "Microsoft.AspNetCore.Components": "6.0.10"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1022.47617"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Components.Forms/6.0.10": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "6.0.10"
@@ -234,6 +258,8 @@
       "BlazorBattles.Client/1.0.0": {
         "dependencies": {
           "BlazorBattles.Shared": "1.0.0",
+          "Blazored.LocalStorage": "4.3.0-preview.1",
+          "Microsoft.AspNetCore.Components.Authorization": "6.0.10",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.10"
         },
         "runtime": {
@@ -241,6 +267,9 @@
         }
       },
       "BlazorBattles.Shared/1.0.0": {
+        "dependencies": {
+          "Blazored.LocalStorage": "4.3.0-preview.1"
+        },
         "runtime": {
           "BlazorBattles.Shared.dll": {}
         }
@@ -252,6 +281,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Blazored.LocalStorage/4.3.0-preview.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QEmh/JjnrmA1ZDoRBNMCW+OOkIlGutzJzKLRFzJq9OC4JiLN2vMV1KgiukAp1Ti6BZz1cHz7eMehKTaBipOxPw==",
+      "path": "blazored.localstorage/4.3.0-preview.1",
+      "hashPath": "blazored.localstorage.4.3.0-preview.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/6.0.10": {
       "type": "package",
@@ -273,6 +309,13 @@
       "sha512": "sha512-krpTqAgPWTPTHYVW3EK8iJpKoJlauDt7oYeSasVGYCb7PMEPd7KfpTJR0efJZN4m4oVHViHXEcFZuWD7dIiAKA==",
       "path": "microsoft.aspnetcore.components.analyzers/6.0.10",
       "hashPath": "microsoft.aspnetcore.components.analyzers.6.0.10.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Authorization/6.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pd9jT42tZAbLC5zW16jdGRLSmo9VPQG9drpFgDeEeuTC5IuQhTXLLXlhj3OSE3vzRD/+DnKUMxbjlXEuQMojaw==",
+      "path": "microsoft.aspnetcore.components.authorization/6.0.10",
+      "hashPath": "microsoft.aspnetcore.components.authorization.6.0.10.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Components.Forms/6.0.10": {
       "type": "package",

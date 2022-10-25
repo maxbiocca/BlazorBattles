@@ -823,3 +823,11 @@ C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\net
 C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\ref\BlazorBattles.Client.dll
 C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Shared\TopMenu.razor.rz.scp.css
 C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\RWE9uuMC.gz
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\BioccaMax\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\DqaxxVJD.gz

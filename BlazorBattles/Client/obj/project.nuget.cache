@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2EK+xJiPKztsOcSCaTQQkFGL09u+TAXiEKlmtcVBqm3xPKOe2PFFkxh0yLPGY5byTJJQ7aETIkUUDM66YTnj2A==",
+  "dgSpecHash": "+YSICQZc1j6p9XDW8gHNcU1gAbo8gRKz9bDeRSymgnA051+YUcr6TVD2JCDry64vH1EnUYoZDzvbRJcrw7DE+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BioccaMax\\.nuget\\packages\\blazored.localstorage\\4.3.0-preview.1\\blazored.localstorage.4.3.0-preview.1.nupkg.sha512",
     "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",
     "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.10\\microsoft.aspnetcore.components.analyzers.6.0.10.nupkg.sha512",
+    "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.10\\microsoft.aspnetcore.components.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.10\\microsoft.aspnetcore.components.forms.6.0.10.nupkg.sha512",
     "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.10\\microsoft.aspnetcore.components.web.6.0.10.nupkg.sha512",
     "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.10\\microsoft.aspnetcore.components.webassembly.6.0.10.nupkg.sha512",

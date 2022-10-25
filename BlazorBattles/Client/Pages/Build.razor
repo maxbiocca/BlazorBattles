@@ -1,6 +1,7 @@
 ﻿@page "/build"
 @inject IBananaService BananaService
 @inject IUnitService UnitService
+@attribute [Authorize]
 
 <h3>Build</h3>
 
@@ -26,6 +27,11 @@
 {
     int selectedUnitId = 1;
     bool needMoreBananas = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await UnitService.LoadUnitAsync();
+    }
 
     public void BuildUnit()
     {

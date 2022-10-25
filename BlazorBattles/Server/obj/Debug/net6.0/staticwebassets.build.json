@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kpA8rKDN3pRt+j2M/jgZhOXxqb3IUfDQMTGKaY4+HjY=",
+  "Hash": "KD9Dj+KQty1KzsVewlj3nOUFEk2nNz6wa6GO9ICo+mc=",
   "Source": "BlazorBattles.Server",
   "BasePath": "_content/BlazorBattles.Server",
   "Mode": "Default",
@@ -129,6 +129,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Shared\\bin\\Debug\\net6.0\\BlazorBattles.Shared.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\BioccaMax\\.nuget\\packages\\blazored.localstorage\\4.3.0-preview.1\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.10.95x5mwwwq1.js",
@@ -265,6 +282,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\BioccaMax\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -4534,6 +4568,23 @@
       "OriginalItemSpec": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.ResourceManager.dll"
     },
     {
+      "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\DqaxxVJD.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
+    },
+    {
       "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\DQIwbFDI.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Project",
@@ -5926,6 +5977,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.dll"
+    },
+    {
+      "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\RWE9uuMC.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\BioccaMax\\source\\repos\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\rWl+rXOJ.gz",
