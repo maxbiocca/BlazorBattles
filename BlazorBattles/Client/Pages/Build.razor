@@ -5,7 +5,7 @@
 
 <h3>Build</h3>
 
-<div class="from-group">
+<div class="form-group">
     <select @bind="selectedUnitId" class="form-control">
         @foreach (var unit in UnitService.Units)
         {
@@ -30,7 +30,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        await UnitService.LoadUnitAsync();
+        await UnitService.LoadUnitsAsync();
     }
 
     public void BuildUnit()
