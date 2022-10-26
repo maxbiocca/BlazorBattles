@@ -32,7 +32,7 @@ namespace BlazorBattles.Client.Services
 
         }
 
-        public Task LoadUnitsAsync()
+        public Task LoadUnitsAsync() 
         {
             throw new Exception();
         } 
